@@ -21,6 +21,7 @@ Optimo Conseil SARL
 
 ## Licence
 
-Ce projet est sous licence [CC BY-NC 4.0]. Vous pouvez l'utiliser, le distribuer et le modifier, mais vous ne pouvez pas l'utiliser à des fins commerciales. Voir le fichier license pour plus de détails.
+Ce projet est sous licence [CC BY-NC 4.0]. Vous pouvez l'utiliser, le distribuer et le modifier, mais vous ne pouvez pas l'utiliser à des fins commerciales. Voir le fichier licence pour plus de détails.
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
