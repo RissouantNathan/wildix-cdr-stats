@@ -2,7 +2,7 @@ import pandas as pd
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import matplotlib.pyplot as plt
-# un script pour les gouverner tous
+# un script pour les gouverner tous !
 
 def analyser_appels_non_repondus(df):
     # Convertir les colonnes pertinentes en numérique
